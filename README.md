@@ -1,1 +1,1 @@
-# S-nchez_Guti-rrez_Taller2-DAW
+# Sánchez_Gutierrez_Taller2-DAW
