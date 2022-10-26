@@ -1,0 +1,45 @@
+body{
+	width:100%;
+	text-align:center;
+	background-color: black;
+}
+
+#form-calc{
+	margin:100px auto 100px auto;
+	background-color: blueviolet;
+	width: 50%;
+}
+
+#resultado{
+	margin-top:50px;
+}
+
+label{
+	display:block;
+
+}
+
+#calc{
+	width: auto;
+	margin-top:20px;
+}
+
+h2{
+	color: white;
+	margin-top: 50px;
+}
+
+#x2{
+	margin-bottom: 50px;
+}
+
+hr{
+	margin-top: 60px;
+}
+
+#ABC{
+	color: white;
+}
+
+
+
